@@ -314,5 +314,9 @@ TSWLatexianTemp*
 # glossaries
 *.glstex
 
+# ignore .doc and .docx
+*.doc
+*.docx
+
 # End of https://www.toptal.com/developers/gitignore/api/latex
 
